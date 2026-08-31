@@ -1,0 +1,1 @@
+// Write a C++ program to create a calculator class with an inline member function at define outisde the class.

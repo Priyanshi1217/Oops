@@ -1,0 +1,1 @@
+// Write a C++ program to create a student class with a member function display define outside the class using the scope resolution operator.

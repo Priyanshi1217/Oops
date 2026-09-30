@@ -12,6 +12,7 @@ public:
         next = nullptr;
     }
 };
+
 int main() {
     unique_ptr<Node> head = make_unique<Node>(10);
     head->next = make_unique<Node>(20);
